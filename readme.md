@@ -1,0 +1,1 @@
+This is a static website created using a child module where the terraform provider version in 3.74.0
